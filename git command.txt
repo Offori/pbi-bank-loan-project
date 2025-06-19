@@ -1,0 +1,17 @@
+C:\Users\Admin>cd Downloads
+
+C:\Users\Admin\Downloads>cd youtube
+
+C:\Users\Admin\Downloads\youtube>cd DA_Bank_loan
+
+C:\Users\Admin\Downloads\youtube\DA_Bank_loan>git init
+Initialized empty Git repository in C:/Users/Admin/Downloads/youtube/DA_Bank_loan/.git/
+
+C:\Users\Admin\Downloads\youtube\DA_Bank_loan>git remote add origin https://github.com/Offori/pbi-bank-loan-project.git
+
+C:\Users\Admin\Downloads\youtube\DA_Bank_loan>git add .
+
+C:\Users\Admin\Downloads\youtube\DA_Bank_loan>git commit -m "Bank loan project on youtube"
+C:\Users\Admin\Downloads\youtube\DA_Bank_loan>git push -u origin master
+
+### NB: sometimes you need to desable window defender
